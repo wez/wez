@@ -8,5 +8,5 @@
 
 ## Find me elsewhere:
 
-* <a rel="me" href="https://fosstodon.org/@wez">@wez@fosstodon.org</a>
+* [@wez@fosstodon.org](https://fosstodon.org/@wez)
 * [@wezfurlong on Twitter](https://twitter.com/wezfurlong)
