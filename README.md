@@ -1,6 +1,5 @@
 # Wez Furlong 💓🦀
 
-* DevInfra & Productivity @ Meta.
 * You may have used my work:
   * [WezTerm](https://wezfurlong.org/wezterm) - Creator of this feature-rich, cross-platform terminal emulator
   * [Watchman](https://facebook.github.io/watchman/) and [EdenFS](https://github.com/facebookexperimental/eden) - Creator
