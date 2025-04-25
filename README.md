@@ -7,5 +7,6 @@
 
 ## Find me elsewhere:
 
+* [@wez@treehouse.systems](https://social.treehouse.systems/@wez)
 * [@wez@fosstodon.org](https://fosstodon.org/@wez)
 * [@wezfurlong on Twitter](https://twitter.com/wezfurlong)
